@@ -17,3 +17,7 @@ const player1 = createPLayer("Steve", "X");
 const player2 = createPLayer("Anna", "O");
 
 console.log(player1.marker);
+
+//  step 3 we want an object to control the flow of the game itself?
+
+function displayController() {}
